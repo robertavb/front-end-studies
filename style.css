@@ -172,6 +172,10 @@ td, th{
     clear: left;
 }
 
+.itens:before {
+    content: "★ "
+}
+
 .principal p{
     margin: 0 0 1em;
 }
